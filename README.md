@@ -67,6 +67,20 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+## 🌐 Coding Profiles
+
+- 🧠 LeetCode: https://leetcode.com/u/DeeKshith1029/
+- 💻 GitHub: https://github.com/Deekshith1983
+---
+## 🧠 LeetCode Stats
+
+<p align="center">
+<a href="https://leetcode.com/u/DeeKshith1029/" target="_blank">
+<img src="https://leetcard.jacoblin.cool/DeeKshith1029?theme=dark&font=Baloo&ext=contest" />
+</a>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -85,7 +99,11 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Deekshith1983/Deekshith1983/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 ⭐ *"Code. Learn. Build. Repeat."*
