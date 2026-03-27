@@ -18,10 +18,9 @@
 ---
 
 ### 🌱 Currently Learning
-- Advanced **React & System Design**
-- **Data Structures & Algorithms**
-- **Machine Learning Basics**
-- Backend Optimization & Scalable Architectures
+- 🚀 Mastering Full Stack Development 
+- 📊 Turning data into insights with Data Analysis
+- 🧠 Strengthening problem-solving with DSA
 
 ---
 
