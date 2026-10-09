@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deekshith S</h1>
 
 <p align="center">
-🚀 Full Stack Developer (MERN) | 📊 Data Analyst <br>
+🚀 Full Stack Developer | 📊 Data Analyst <br>
 💡 Building scalable web apps & solving real-world problems with data <br>
 🎯 Actively seeking opportunities | Fast learner | Adaptable & result-driven
 </p>
@@ -9,7 +9,7 @@
 ---
 
 ### 💫 About Me
-- 💻 Full Stack Developer specializing in **MERN Stack**
+- 💻 Full Stack Developer
 - 📊 Strong interest in **Data Analytics & Visualization**
 - ⚡ Quick learner with ability to adapt to new technologies
 - 🎯 Currently looking for **Software Developer / Data Analyst roles**
